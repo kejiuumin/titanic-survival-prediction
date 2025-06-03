@@ -1,5 +1,3 @@
-# titanic-survival-prediction
-
 # 🚢 타이타닉 생존자 예측 프로젝트 (Titanic Survival Prediction Project)
 
 ## 💡 개요 (Overview)
